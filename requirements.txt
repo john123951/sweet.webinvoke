@@ -1,0 +1,4 @@
+# This is an implicit value, here for clarity
+--index https://pypi.python.org/simple/
+
+bottle==0.12.9
